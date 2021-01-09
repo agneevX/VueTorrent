@@ -34,7 +34,7 @@
         <v-text-field
           v-model="input"
           flat
-          label="type to filter..."
+          label="Type to filter..."
           height="50"
           clearable
           solo
